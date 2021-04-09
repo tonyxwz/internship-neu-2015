@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>未标题-2.psd</file>
+        <file>hushi.png</file>
+        <file>挂号图标副本2.png</file>
+        <file>挂号图标副本3.png</file>
+        <file>挂号图标副本4.png</file>
+        <file>men.jpg</file>
+        <file>men1.png</file>
+        <file>men2.png</file>
+        <file>d.jpg</file>
+        <file>d2.png</file>
+        <file>白色.jpg</file>
+        <file>doctor6副本.png</file>
+        <file>pipi.jpg</file>
+        <file>bei jin 2.jpg</file>
+        <file>bei jin 3.jpg</file>
+        <file>提交1.png</file>
+        <file>提交2.png</file>
+        <file>提交3.png</file>
+        <file>xie1.png</file>
+        <file>xie2.png</file>
+        <file>xie3.png</file>
+        <file>bei jin 3.png</file>
+    </qresource>
+</RCC>
