@@ -50,17 +50,15 @@ pool_add_worker(void* (*process)(void* arg, sqlite3** arg1),
                 sqlite3** arg1);
 void*
 thread_routine(void* arg);
+
 void
 pool_init(int max_thread_num);
+
 int
 pool_destroy();
+
 void*
 myprocess(void* arg, sqlite3** arg1);
-void*
-myprocess_1234(void* arg, sqlite3** arg1);
-void*
-cooncetevent_4567(void* arg);
-void*
-myprocess_3456(void* arg, sqlite3** arg1);
+
 
 #endif
